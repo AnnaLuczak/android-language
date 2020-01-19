@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/japanese"
+        android:title="japanese"></item>
+    <item
+        android:id="@+id/polish"
+        android:title="polish"></item>
+
+</menu>
